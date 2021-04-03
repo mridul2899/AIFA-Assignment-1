@@ -14,7 +14,7 @@ An in-depth explanation of the algorithm can be found in the file `AIFA Report.p
 ## Installation Guide
 The code has been written and implemented in an Ipython (or Jupyter) Notebook and has been run using Python version 3. The code depends on four text files for the various kinds of inputs. It makes use of heapq package besides the base package provided by Python.
 
-The steps for running the code are as follows:
+The steps for running the code are as follows: <br>
 0. Install Jupyter-Notebook (if not already installed)
 ```console
 foo@bar:~$ pip install notebook
